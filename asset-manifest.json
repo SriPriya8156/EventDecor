@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/EventDecor/static/css/main.b038ba99.css",
+    "main.js": "/github.io/EventDecor/static/js/main.bec0e782.js",
+    "index.html": "/github.io/EventDecor/index.html",
+    "main.b038ba99.css.map": "/github.io/EventDecor/static/css/main.b038ba99.css.map",
+    "main.bec0e782.js.map": "/github.io/EventDecor/static/js/main.bec0e782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b038ba99.css",
+    "static/js/main.bec0e782.js"
+  ]
+}
