@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EventDecor/static/css/main.b038ba99.css",
-    "main.js": "/EventDecor/static/js/main.09fe43b9.js",
+    "main.js": "/EventDecor/static/js/main.90aabb12.js",
     "index.html": "/EventDecor/index.html",
     "main.b038ba99.css.map": "/EventDecor/static/css/main.b038ba99.css.map",
-    "main.09fe43b9.js.map": "/EventDecor/static/js/main.09fe43b9.js.map"
+    "main.90aabb12.js.map": "/EventDecor/static/js/main.90aabb12.js.map"
   },
   "entrypoints": [
     "static/css/main.b038ba99.css",
-    "static/js/main.09fe43b9.js"
+    "static/js/main.90aabb12.js"
   ]
 }
